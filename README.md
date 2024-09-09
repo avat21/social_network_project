@@ -42,7 +42,7 @@ Database: By default, the project uses SQLite. Modify settings.py to configure o
 
 ### API Endpoint
 
-Attach postman public link
+Postman api workspace link
 
 ``` bash
 https://www.postman.com/interstellar-spaceship-388909/workspace/public-workspace/collection/21410520-2a59fd5c-508f-4134-9512-e31b532e04a0?action=share&creator=21410520
